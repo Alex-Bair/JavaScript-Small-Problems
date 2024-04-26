@@ -1,0 +1,1 @@
+These problems are from Launch School's [Object Oriented JavaScript](https://launchschool.com/exercises) exercises.

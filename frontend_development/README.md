@@ -1,0 +1,1 @@
+These problems are from Launch School's [Front-end Development with JavaScript](https://launchschool.com/exercises) exercises.
